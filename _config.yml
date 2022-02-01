@@ -1,2 +1,4 @@
 name: E Smith, Nexas America
 markdown: kramdown
+
+theme: jekyll-theme-cayman
